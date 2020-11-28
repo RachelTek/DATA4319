@@ -5,7 +5,7 @@ Using Python with the Sci-Kit learn package
 
 Supervised Learning
 - Classification Tree
-- Regression Tree
+- Support Vector Machine
 
 
 
