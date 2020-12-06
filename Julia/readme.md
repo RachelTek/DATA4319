@@ -2,11 +2,12 @@
 ### DATA 4319
 ----
 
-Julia is used to implement the following supervised machine learning algorithms by scratch:
+Implementing Machine Learning algorithms with Julia by scratch
+
+Supervised Learning:
 - Perceptron
 - Linear Regression
 - K Nearest neighbours
 
-In addition, the unsupervised learning algorithm of K Means Clustering is also included.
-
-All are in the format of a Jupyter Notebook.
+Unsupervised Learning:
+- K Means Clustering
