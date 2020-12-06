@@ -7,3 +7,4 @@ Inside this directory, ulia is used to implement the following supervised machin
 - Linear Regression
 - Logistic Regression
 - K Nearest neighbours
+- Neural Network
