@@ -3,12 +3,12 @@
 ----
 Using Python with the Sci-Kit learn package
 
-Supervised Learning using Python with Sci-kit Learn
+Supervised Learning:
 - Support Vector Machine
 - Support Vector Regression
 - Classification Tree
 
 
 
-Unsupervised learning using Python with Sci-kit Learn
+Unsupervised learning:
 - Hierarchical Clustering
