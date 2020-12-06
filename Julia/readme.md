@@ -9,6 +9,7 @@ Supervised Learning:
 - Linear Regression
 - Logistic Regression
 - K Nearest neighbours
+- Neural Network
 
 
 Unsupervised Learning:
